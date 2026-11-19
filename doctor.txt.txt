@@ -3,7 +3,7 @@ DOCTOR DETAILS
 Doctor ID: D103
 Doctor Name: Dr. karthick
 Specialization: orthologist
-Experience: 12 Years
+Experience: 12 YearsS
 Doctor ID: D102
 Doctor Name: Dr. Priya
 Specialization: neurologist

@@ -1,10 +1,10 @@
 HOSPITAL MANAGEMENT SYSTEM
-DOCTOR DETAILS
+DOCTOR DETAILSsssss
+Doctor ID: D106
+Doctor Name: Dr. kanishka
+Specialization: orthologist so
+Experience: 12 YearsS
 Doctor ID: D103
-Doctor Name: Dr. karthick
-Specialization: orthologist
-Experience: 12 Years
-Doctor ID: D102
-Doctor Name: Dr. Priya
-Specialization: neurologist
-Experience: 8 Years
+Doctor Name: Dr. Priyaaaa
+Specialization: neurologisttttt
+Experience: 8 Yearsssss
